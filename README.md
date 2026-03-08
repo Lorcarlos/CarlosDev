@@ -31,11 +31,6 @@ During my professional internship, I participated in a project focused on **proc
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,laravel,php,py,java,cpp,mysql,postgres,sqlite,git,github,postman" />
 </p>
 
-* **Frontend:** React, Angular, TypeScript, JavaScript (ES6+), Responsive Design (UX/UI).
-* **Backend:** Laravel, CodeIgniter, PHP, Python, Java, C++, RESTful API Development.
-* **Databases:** MySQL, PostgreSQL, SQL Server.
-* **Tools:** Git, GitHub, Postman, Scrum, Kanban, MVC Pattern.
-
 ---
 
 ## 🇪🇸 Versión Español
@@ -50,14 +45,6 @@ He trabajado con frameworks como **Laravel, CodeIgniter, Angular y React**, apli
 * **Optimización de procesos:** Diseñé e implementé sistemas web para la automatización de la planta, mejorando significativamente la eficiencia operativa.
 * **Desarrollo Full Stack:** Lideré el análisis, diseño y despliegue de módulos funcionales utilizando metodologías ágiles (**Scrum / Kanban**).
 * **Impacto:** Reduje tiempos de respuesta en la asignación de tareas mediante soluciones de software centradas en el usuario.
-
-### 🚀 Habilidades Técnicas
-| Categoría | Tecnologías |
-| --- | --- |
-| **Frontend** | React, Angular, TypeScript, JavaScript (ES6+), Diseño Responsivo (UX/UI) |
-| **Backend** | Laravel, CodeIgniter, PHP, Python, Java, C++, APIs RESTful |
-| **Bases de Datos** | MySQL, PostgreSQL, SQL Server |
-| **Herramientas** | Git, GitHub, Postman, Scrum, Kanban, Patrón MVC |
 
 ---
 
