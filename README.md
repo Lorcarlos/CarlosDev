@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Carlos%20Pérez&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Carlos%20Pérez&fontSize=70&animation=fadeIn" />
 </p>
 
 # ¡Hola! / Hello! <img src="https://media.giphy.com/media/hvRJCLz8A9NzsUtuOd/giphy.gif" width="35">
@@ -20,13 +20,13 @@ I have worked with frameworks such as **Laravel, CodeIgniter, Angular, and React
 During my professional internship, I participated in a project focused on **process optimization**, which strengthened my **analysis, problem-solving, and teamwork skills**.
 
 ### 💼 Work Experience
-**Full Stack Developer (Professional Internship)** **Protelas S.A**
+**Full Stack Developer (Professional Internship)** | **Protelas S.A**
 * **Process Optimization:** Designed and implemented web systems for plant automation, significantly improving operational efficiency.
 * **Full Stack Development:** Led the analysis, design, and deployment of functional modules using agile methodologies (**Scrum / Kanban**).
 * **Data Management:** Facilitated internal activity tracking by structuring business models and relational databases.
 * **Impact:** Reduced response times in task assignment through user-centered software solutions.
 
-### 🛠️ Technical Skills (English Stack)
+### 🛠️ Technical Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,laravel,php,py,java,cpp,mysql,postgres,sqlite,git,github,postman" />
 </p>
@@ -45,13 +45,10 @@ Soy **Ingeniero en Sistemas**, tengo 26 años y cuento con una sólida formació
 
 He trabajado con frameworks como **Laravel, CodeIgniter, Angular y React**, aplicando el **patrón MVC** para crear aplicaciones organizadas, escalables y eficientes.
 
-Durante mis prácticas profesionales participé en un proyecto enfocado en la **optimización de procesos**, lo que fortaleció mis habilidades de **análisis, resolución de problemas y trabajo en equipo**.
-
 ### 💼 Experiencia Laboral
-**Desarrollador Full Stack (Prácticas Profesionales)** **Protelas S.A**
+**Desarrollador Full Stack (Prácticas Profesionales)** | **Protelas S.A**
 * **Optimización de procesos:** Diseñé e implementé sistemas web para la automatización de la planta, mejorando significativamente la eficiencia operativa.
 * **Desarrollo Full Stack:** Lideré el análisis, diseño y despliegue de módulos funcionales utilizando metodologías ágiles (**Scrum / Kanban**).
-* **Gestión de Datos:** Facilité el control de actividades internas mediante la estructuración de modelos de negocio y bases de datos relacionales.
 * **Impacto:** Reduje tiempos de respuesta en la asignación de tareas mediante soluciones de software centradas en el usuario.
 
 ### 🚀 Habilidades Técnicas
@@ -64,23 +61,30 @@ Durante mis prácticas profesionales participé en un proyecto enfocado en la **
 
 ---
 
-## 📊 Estadísticas / Stats
+## 📊 Mis Estadísticas / My Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats de Carlos" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Carlos" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorcarlos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorcarlos&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorcarlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Contacto / Contact
 <p align="center">
-  <a href="mailto:carperez45@uan.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://repor-personal.vercel.app/#inicio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/TU_USUARIO_AQUI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:carperez45@uan.edu.co">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://repor-personal.vercel.app/#inicio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lorcarlos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
